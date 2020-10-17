@@ -1,11 +1,11 @@
 {
   "name": "Erxes on Heroku",
-  "description": "Open source growth marketing platform",
+  "description": "Open source growth Marketing Platform",
   "keywords": [
     "Marketing",
-    "sales",
-    "customer engagement",
-    "customer support",
+    "Sales",
+    "Customer Engagement",
+    "Customer Support",
     "CRM"
   ],
   "website": "https://erxes.io",
@@ -14,7 +14,7 @@
   "success_url": "/",
   "env": {
     "PORT": {
-      "description": "A port number that erxes will be running on",
+      "description": "A port number that erxes will be running on:",
       "value": "3000"
     },
     "REACT_APP_CDN_HOST": {
